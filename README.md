@@ -1,2 +1,2 @@
 # KamusalAlanKullanimDashboard
-## Bursa Teknik Üniversitesi (BTÜ) İşletmede Mesleki Eğitim Programı (İMEP) kapsamında hazırlanmıştır.
+### Bursa Teknik Üniversitesi (BTÜ) İşletmede Mesleki Eğitim Programı (İMEP) kapsamında hazırlanmıştır.
